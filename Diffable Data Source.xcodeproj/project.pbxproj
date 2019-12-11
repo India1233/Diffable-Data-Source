@@ -15,6 +15,9 @@
 		9A4D2C9823A104E5004F3918 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A4D2C9623A104E5004F3918 /* LaunchScreen.storyboard */; };
 		9A4D2CA323A104E5004F3918 /* Diffable_Data_SourceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2CA223A104E5004F3918 /* Diffable_Data_SourceTests.swift */; };
 		9A4D2CAE23A104E5004F3918 /* Diffable_Data_SourceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2CAD23A104E5004F3918 /* Diffable_Data_SourceUITests.swift */; };
+		9A4D2CBC23A10563004F3918 /* DiffableTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2CBB23A10563004F3918 /* DiffableTableVC.swift */; };
+		9A4D2CBE23A105F5004F3918 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2CBD23A105F5004F3918 /* User.swift */; };
+		9A4D2CC023A10620004F3918 /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4D2CBF23A10620004F3918 /* AlertService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		9A4D2CA923A104E5004F3918 /* Diffable Data SourceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Diffable Data SourceUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A4D2CAD23A104E5004F3918 /* Diffable_Data_SourceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diffable_Data_SourceUITests.swift; sourceTree = "<group>"; };
 		9A4D2CAF23A104E5004F3918 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A4D2CBB23A10563004F3918 /* DiffableTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiffableTableVC.swift; sourceTree = "<group>"; };
+		9A4D2CBD23A105F5004F3918 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		9A4D2CBF23A10620004F3918 /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				9A4D2C8B23A104E4004F3918 /* AppDelegate.swift */,
 				9A4D2C8D23A104E4004F3918 /* SceneDelegate.swift */,
 				9A4D2C8F23A104E4004F3918 /* ViewController.swift */,
+				9A4D2CBB23A10563004F3918 /* DiffableTableVC.swift */,
+				9A4D2CBD23A105F5004F3918 /* User.swift */,
+				9A4D2CBF23A10620004F3918 /* AlertService.swift */,
 				9A4D2C9123A104E4004F3918 /* Main.storyboard */,
 				9A4D2C9423A104E5004F3918 /* Assets.xcassets */,
 				9A4D2C9623A104E5004F3918 /* LaunchScreen.storyboard */,
@@ -261,6 +270,9 @@
 			files = (
 				9A4D2C9023A104E4004F3918 /* ViewController.swift in Sources */,
 				9A4D2C8C23A104E4004F3918 /* AppDelegate.swift in Sources */,
+				9A4D2CBC23A10563004F3918 /* DiffableTableVC.swift in Sources */,
+				9A4D2CBE23A105F5004F3918 /* User.swift in Sources */,
+				9A4D2CC023A10620004F3918 /* AlertService.swift in Sources */,
 				9A4D2C8E23A104E4004F3918 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
